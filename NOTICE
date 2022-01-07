@@ -5,8 +5,8 @@ Third-party Software Attributions:
 
 Library: netaddr
 Version: 0.8.0
-License: MIT
 License: BSD 2
+License: MIT
 Copyright 2008 by David P
 
 Library: simplejson
